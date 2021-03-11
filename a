@@ -10,3 +10,7 @@ git remote show [alias]
 git remote rm [alias]
 ssh-keygen -t rsa -C git@github.com:hanweigang/remote.git
 ssh -T git@github.com
+
+git 
+git
+git
