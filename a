@@ -1,8 +1,12 @@
 
 git remote -v
-git remote add [alias] git@gitee.com:vichwg/remote
+git remote add [alias] git@gitee.com:vichwg/remote.git
 git push [远程主机名] [本地分支名]:[远程分支名]
 git fetch 
 git merge
 git pull
 git remote show [alias]
+
+git remote rm [alias]
+ssh-keygen -t rsa -C git@github.com:hanweigang/remote.git
+ssh -T git@github.com
