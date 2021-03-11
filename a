@@ -1,1 +1,8 @@
 
+git remote -v
+git remote add [alias] git@gitee.com:vichwg/remote
+git push [远程主机名] [本地分支名]:[远程分支名]
+git fetch 
+git merge
+git pull
+git remote show [alias]
